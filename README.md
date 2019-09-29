@@ -2,6 +2,8 @@
 
 A small CLI tool to listen to "dark mode" changes on Linux via the active GTK theme.
 
+Modeled after [DarkModeListener](https://github.com/LinusU/DarkModeListener) for MacOS.
+
 ## Build
 
 Build via [Meson](https://mesonbuild.com/).
